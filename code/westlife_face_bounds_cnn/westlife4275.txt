@@ -1,0 +1,2 @@
+Detection 0: Left: 725 Top: 261 Right: 764 Bottom: 301 Confidence: 0.9838728904724121
+Detection 1: Left: 548 Top: 232 Right: 617 Bottom: 300 Confidence: 0.07434386014938354

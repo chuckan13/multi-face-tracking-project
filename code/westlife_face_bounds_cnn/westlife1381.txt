@@ -1,0 +1,4 @@
+Detection 0: Left: 914 Top: 286 Right: 1012 Bottom: 384 Confidence: 1.207033634185791
+Detection 1: Left: 193 Top: 177 Right: 240 Bottom: 225 Confidence: 1.0892473459243774
+Detection 2: Left: 341 Top: 142 Right: 409 Bottom: 210 Confidence: 1.0542347431182861
+Detection 3: Left: 535 Top: 211 Right: 603 Bottom: 279 Confidence: 1.0535550117492676

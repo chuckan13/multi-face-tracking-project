@@ -1,0 +1,8 @@
+Detection 0: Left: 673 Top: 537 Right: 712 Bottom: 577 Confidence: 1.1060882806777954
+Detection 1: Left: 524 Top: 408 Right: 572 Bottom: 455 Confidence: 1.095028042793274
+Detection 2: Left: 174 Top: 403 Right: 221 Bottom: 450 Confidence: 1.082698106765747
+Detection 3: Left: 854 Top: 373 Right: 911 Bottom: 430 Confidence: 1.0739840269088745
+Detection 4: Left: 1139 Top: 508 Right: 1186 Bottom: 556 Confidence: 1.0288232564926147
+Detection 5: Left: 1047 Top: 513 Right: 1095 Bottom: 561 Confidence: 1.0113530158996582
+Detection 6: Left: 317 Top: 517 Right: 356 Bottom: 557 Confidence: 0.9183014631271362
+Detection 7: Left: 25 Top: 477 Right: 64 Bottom: 517 Confidence: 0.19750794768333435
